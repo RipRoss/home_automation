@@ -1,0 +1,4 @@
+venv/
+alarm/config/
+.idea/
+alarm/__pycache__/
